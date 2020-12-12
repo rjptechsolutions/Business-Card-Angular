@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "business-card"
+    }
+  },
+  "defaultProject": "business-card",
+  "cli": {
+    "analytics": false
+  }
 }
